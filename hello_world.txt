@@ -1,0 +1,1 @@
+Hello world, I am learning with the help of the odin project! :-)
